@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D0F63B94-AB85-4DC7-8BB2-2A39A877F4FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseFunctionalities</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E026AB07BF2056CB88374F935ED2C7AD3711900</key>
+		<string>https://github.com/claudio121/ParseFunctionalities.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParseFunctionalities.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E026AB07BF2056CB88374F935ED2C7AD3711900</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/claudio121/ParseFunctionalities.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E026AB07BF2056CB88374F935ED2C7AD3711900</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E026AB07BF2056CB88374F935ED2C7AD3711900</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ParseFunctionalities-New</string>
+		</dict>
+	</array>
+</dict>
+</plist>
